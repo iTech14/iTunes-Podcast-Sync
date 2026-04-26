@@ -11,6 +11,7 @@ This python script was vibecoded using Claude Sonnet 4.6. Leaving this here just
 - Python 3
 - iTunes (Tested on 12.10.11.2, but should work on 10.7 and above)
 - Windows (Tested on 11 25H2, but should work on Windows 7-10)
+- iPod that can support podcasts (Tested on iPod Classic 7th Generation on 2.0.4)
 
 ## Setup
 
